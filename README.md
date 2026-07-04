@@ -18,11 +18,21 @@ Marketing site for HowLongTho, deployed via GitHub Pages at howlongtho.com.
 
 ## Deployment
 
-Not yet connected to a GitHub remote or Pages. When ready:
-
-1. Push this repo to GitHub as `howlongtho-website`.
-2. Enable GitHub Pages on the repo (root).
-3. Point the `howlongtho.com` custom domain here.
+- Repo: https://github.com/afknapping/howlongtho-website
+- GitHub Pages: enabled, source = `main` branch, root. Custom domain set via the
+  `CNAME` file (contains `howlongtho.com`).
+- DNS (at Hover, registrar for howlongtho.com): point the apex domain at GitHub Pages
+  with four `A` records on `@`:
+  - `185.199.108.153`
+  - `185.199.109.153`
+  - `185.199.110.153`
+  - `185.199.111.153`
+  - Optionally add `AAAA` records on `@` for IPv6:
+    `2606:50c0:8000::153`, `2606:50c0:8001::153`, `2606:50c0:8002::153`, `2606:50c0:8003::153`
+- Once DNS propagates, GitHub will auto-issue an HTTPS cert; enable "Enforce HTTPS" in
+  the repo's Pages settings once available.
+- `app.howlongtho.com` (PWA, separate `howlongtho-pwa` repo) needs its own `CNAME`
+  record at Hover pointing to `afknapping.github.io` once that repo exists.
 
 ## Later
 
