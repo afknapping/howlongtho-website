@@ -11,9 +11,13 @@
 - [ ] Link to PWA demo at app.howlongtho.com (separate repo: `howlongtho-pwa`)
 
 ## Content
-- [ ] Write homepage copy (what HowLongTho is, why it's useful)
+- [x] Write homepage copy — sourced from the shared content base, see
+  `marketing/copy/content-base.md` in the main project folder (not this repo);
+  keep homepage in sync with it manually, no generator yet
 - [ ] Decide pre-launch vs post-launch mailing list copy (same list, swap CTA later)
 - [ ] Add privacy policy page
+- [ ] Decide which subtitle option ships (see content-base.md open question) and
+  finalize the hero subhead
 
 ## Later (not now)
 - [ ] Evaluate migrating from plain markdown to Jekyll
