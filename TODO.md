@@ -15,7 +15,7 @@
   `marketing/copy/content-base.md` in the main project folder (not this repo);
   keep homepage in sync with it manually, no generator yet
 - [ ] Decide pre-launch vs post-launch mailing list copy (same list, swap CTA later)
-- [ ] Add privacy policy page
+- [x] Add privacy policy page — `privacy.md`, linked from the homepage footer
 - [ ] Decide which subtitle option ships (see content-base.md open question) and
   finalize the hero subhead
 

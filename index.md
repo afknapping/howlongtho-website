@@ -29,3 +29,7 @@ instead of finding out too late.
 ## Mailing list
 
 <!-- Buttondown embed goes here -->
+
+---
+
+[Privacy Policy](/privacy)
