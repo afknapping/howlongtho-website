@@ -50,4 +50,4 @@ above.
 
 ## Contact
 
-Questions about this policy? Email [fabian@afknapping.de](mailto:fabian@afknapping.de).
+Questions about this policy? Email [hello@howlongtho.com](mailto:hello@howlongtho.com).
