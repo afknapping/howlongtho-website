@@ -11,13 +11,13 @@
 - [ ] Link to PWA demo at app.howlongtho.com (separate repo: `howlongtho-pwa`)
 
 ## Content
-- [x] Write homepage copy — sourced from the shared content base, see
-  `marketing/copy/content-base.md` in the main project folder (not this repo);
-  keep homepage in sync with it manually, no generator yet
+- [x] Write homepage copy — sourced verbatim from
+  `marketing/copy/ios-app-store-content.md` in the main project folder (not
+  this repo); no per-platform diversions (decided 2026-07-20); keep in sync
+  manually, no generator yet
 - [ ] Decide pre-launch vs post-launch mailing list copy (same list, swap CTA later)
 - [x] Add privacy policy page — `privacy.md`, linked from the homepage footer
-- [ ] Decide which subtitle option ships (see content-base.md open question) and
-  finalize the hero subhead
+- [x] Decide which subtitle option ships — "Time you can actually feel"
 
 ## Later (not now)
 - [ ] Evaluate migrating from plain markdown to Jekyll

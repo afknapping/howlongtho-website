@@ -34,12 +34,19 @@ layout: null
   html, body, div, header, main, section, footer, p, ul, li, a, img, form {
     box-sizing: border-box;
   }
+  :root {
+    --fs-small: 16px;
+    --fs-medium: 26px;
+    --fs-large: 42px;
+    --fs-xlarge: 68px;
+  }
   body {
     margin: 0;
     background: #000000;
     color: #ffffff;
     font-family: "Atkinson Hyperlegible Next", -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: 300;
+    font-size: var(--fs-small);
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
   }
@@ -61,14 +68,15 @@ layout: null
   }
   .subtitle {
     font-weight: 800;
-    font-size: clamp(22px, 5vw, 30px);
-    margin: 0 0 20px;
+    font-size: var(--fs-xlarge);
+    line-height: 1.15;
+    margin: 0 0 24px;
   }
   .tagline {
     font-weight: 300;
-    font-size: 17px;
+    font-size: var(--fs-medium);
     color: #a3a3a3;
-    max-width: 520px;
+    max-width: 560px;
     margin: 0 auto 32px;
   }
   .cta-row {
@@ -83,7 +91,7 @@ layout: null
     background: #ffffff;
     color: #000000;
     font-weight: 600;
-    font-size: 17px;
+    font-size: var(--fs-medium);
     text-decoration: none;
     padding: 14px 32px;
     border-radius: 999px;
@@ -92,12 +100,10 @@ layout: null
     background: #e6e6e6;
   }
   .cta-note {
-    font-size: 13px;
     color: #6b6b6b;
     margin: 0;
   }
   .store-links {
-    font-size: 14px;
     color: #6b6b6b;
     margin-top: 8px;
   }
@@ -110,7 +116,6 @@ layout: null
     align-items: center;
     justify-content: center;
     text-align: center;
-    font-size: 14px;
     padding: 16px;
   }
   .video-placeholder {
@@ -124,12 +129,13 @@ layout: null
   }
   h2 {
     font-weight: 800;
-    font-size: 22px;
+    font-size: var(--fs-large);
     margin: 0 0 20px;
   }
   section p {
     color: #a3a3a3;
     font-weight: 300;
+    font-size: var(--fs-medium);
   }
   .features {
     list-style: none;
@@ -144,6 +150,7 @@ layout: null
     position: relative;
     color: #ffffff;
     font-weight: 300;
+    font-size: var(--fs-medium);
   }
   .features li::before {
     content: "\2014";
@@ -166,19 +173,16 @@ layout: null
   .screenshot-placeholder .cap {
     color: #ffffff;
     font-weight: 600;
-    font-size: 13px;
   }
   .buttondown-placeholder {
     border: 1px dashed #2a2a2a;
     border-radius: 12px;
     padding: 20px;
     color: #6b6b6b;
-    font-size: 14px;
   }
   footer {
     padding: 40px 0 64px;
     text-align: center;
-    font-size: 14px;
     color: #6b6b6b;
   }
   footer a {
