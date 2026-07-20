@@ -85,6 +85,15 @@ take</li>
 </div>
 </div>
 </section>
+<section id="compatibility">
+<h2>Compatibility</h2>
+<ul class="plain-list">
+<li><strong>iPhone</strong> — iPhone 11 (2019) or iPhone SE 2nd generation (2020)</li>
+<li><strong>iPad</strong> (soon) — iPad Pro 11"/12.9" (2018), iPad Air 3rd generation (2019), iPad 8th generation (2020), or iPad mini 5th generation (2019)</li>
+<li><strong>Apple Watch</strong> (soon) — Apple Watch Series 6 (2020), SE 2nd generation (2022), or Ultra (2022)</li>
+<li><strong>Apple TV</strong> (soon) — Apple TV HD (2015) or any Apple TV 4K generation</li>
+</ul>
+</section>
 <section id="mailing-list">
 <h2>Get notified</h2>
 <p>Be the first to know when How Long Tho launches publicly. No spam, just a heads-up when it's ready.</p>
