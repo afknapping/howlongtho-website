@@ -88,10 +88,10 @@ take</li>
 <section id="compatibility">
 <h2>Compatibility</h2>
 <ul class="plain-list">
-<li><strong>iPhone</strong> — iPhone 11 (2019) or iPhone SE 2nd generation (2020)</li>
-<li><strong>iPad</strong> (soon) — iPad Pro 11"/12.9" (2018), iPad Air 3rd generation (2019), iPad 8th generation (2020), or iPad mini 5th generation (2019)</li>
-<li><strong>Apple Watch</strong> (soon) — Apple Watch Series 6 (2020), SE 2nd generation (2022), or Ultra (2022)</li>
-<li><strong>Apple TV</strong> (soon) — Apple TV HD (2015) or any Apple TV 4K generation</li>
+<li><strong>iPhone:</strong> <span class="fw-semibold">iOS 26</span> → iPhone 11 (2019) or iPhone SE 2nd generation (2020)</li>
+<li><strong>iPad</strong> (soon): <span class="fw-semibold">iPadOS 26</span> → iPad Pro 11"/12.9" (2018), iPad Air 3rd generation (2019), iPad 8th generation (2020), or iPad mini 5th generation (2019)</li>
+<li><strong>Apple Watch</strong> (soon): <span class="fw-semibold">watchOS 26</span> → Apple Watch Series 6 (2020), SE 2nd generation (2022), or Ultra (2022)</li>
+<li><strong>Apple TV</strong> (soon): <span class="fw-semibold">tvOS 26</span> → Apple TV HD (2015) or any Apple TV 4K generation</li>
 </ul>
 </section>
 <section id="mailing-list">
