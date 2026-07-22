@@ -12,6 +12,9 @@ layout: null
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://howlongtho.com">
 <link rel="canonical" href="https://howlongtho.com">
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Light.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>

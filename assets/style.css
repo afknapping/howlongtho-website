@@ -2,19 +2,19 @@
   font-family: "Atkinson Hyperlegible Next";
   src: url("/fonts/AtkinsonHyperlegibleNext-Light.ttf") format("truetype");
   font-weight: 300;
-  font-display: swap;
+  font-display: optional;
 }
 @font-face {
   font-family: "Atkinson Hyperlegible Next";
   src: url("/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf") format("truetype");
   font-weight: 600;
-  font-display: swap;
+  font-display: optional;
 }
 @font-face {
   font-family: "Atkinson Hyperlegible Next";
   src: url("/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf") format("truetype");
   font-weight: 800;
-  font-display: swap;
+  font-display: optional;
 }
 html, body, div, header, main, section, footer, p, ul, li, a, img, form {
   box-sizing: border-box;

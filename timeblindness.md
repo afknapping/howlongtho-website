@@ -10,8 +10,11 @@ permalink: /timeblindness/
 <meta name="description" content="What time blindness actually is, why it happens, and why it's not a character flaw.">
 <meta property="og:title" content="Time blindness, explained — How Long Tho">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://howlongtho.com/timeblindness">
-<link rel="canonical" href="https://howlongtho.com/timeblindness">
+<meta property="og:url" content="https://howlongtho.com/timeblindness/">
+<link rel="canonical" href="https://howlongtho.com/timeblindness/">
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Light.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>

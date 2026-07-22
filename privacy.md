@@ -10,8 +10,11 @@ permalink: /privacy/
 <meta name="description" content="How Long Tho's privacy policy — no server, no account, no backend, no tracking, no ads.">
 <meta property="og:title" content="Privacy Policy — How Long Tho">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://howlongtho.com/privacy">
-<link rel="canonical" href="https://howlongtho.com/privacy">
+<meta property="og:url" content="https://howlongtho.com/privacy/">
+<link rel="canonical" href="https://howlongtho.com/privacy/">
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Light.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
