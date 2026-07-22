@@ -28,6 +28,7 @@
   }
   body {
     margin: 0;
+    padding-top: 60px;
     background: #000000;
     color: #ffffff;
     font-family: "Atkinson Hyperlegible Next", -apple-system, BlinkMacSystemFont, sans-serif;
@@ -35,6 +36,30 @@
     font-size: var(--fs-small);
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
+  }
+  .site-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    background: #000000;
+    border-bottom: 1px solid #2a2a2a;
+    padding: 18px 24px;
+  }
+  .site-nav .nav-inner {
+    max-width: 720px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .site-nav a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .site-nav a:hover {
+    color: #a3a3a3;
   }
   main {
     max-width: 720px;

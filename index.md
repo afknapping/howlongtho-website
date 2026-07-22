@@ -15,6 +15,7 @@ layout: null
 {% include styles.html %}
 </head>
 <body>
+{% include nav.html %}
 <main>
 <header>
 <img class="logotype" src="/assets/logotype.jpg" alt="How Long Tho">
