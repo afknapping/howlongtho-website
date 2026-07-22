@@ -4,3 +4,17 @@
 <a href="#">Timeblindness explained</a>
 </div>
 </nav>
+<script>
+(function() {
+  var nav = document.querySelector('.site-nav');
+  function onScroll() {
+    if (window.scrollY > 10) {
+      nav.classList.add('compact');
+    } else {
+      nav.classList.remove('compact');
+    }
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+})();
+</script>
