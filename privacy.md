@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /privacy/
 ---
 <html lang="en">
 <head>

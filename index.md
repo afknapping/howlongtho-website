@@ -103,7 +103,7 @@ take</li>
 </div>
 </section>
 <footer>
-<a href="/privacy">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
+<a href="/privacy/">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
 </footer>
 </main>
 </body>

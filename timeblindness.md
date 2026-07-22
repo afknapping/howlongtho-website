@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /timeblindness/
 ---
 <html lang="en">
 <head>
