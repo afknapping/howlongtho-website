@@ -12,7 +12,7 @@ permalink: /privacy/
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://howlongtho.com/privacy">
 <link rel="canonical" href="https://howlongtho.com/privacy">
-{% include styles.html %}
+<link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
 {% include nav.html %}

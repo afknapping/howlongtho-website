@@ -12,7 +12,7 @@ permalink: /timeblindness/
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://howlongtho.com/timeblindness">
 <link rel="canonical" href="https://howlongtho.com/timeblindness">
-{% include styles.html %}
+<link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
 {% include nav.html %}
