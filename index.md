@@ -87,6 +87,10 @@ take</li>
 <span class="cap">"Every timer, in one place"</span>
 <span>Timer list</span>
 </div>
+<div class="placeholder screenshot-placeholder">
+<span class="cap">"Quick access from Home Screen or Control Center"</span>
+<span>Widget &amp; Control Center</span>
+</div>
 </div>
 </section>
 <section id="compatibility">
