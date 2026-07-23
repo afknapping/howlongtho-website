@@ -1,3 +1,4 @@
+permalink: /blog/:title/
 exclude:
   - README.md
   - TODO.md
