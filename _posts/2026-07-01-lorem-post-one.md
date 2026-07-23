@@ -14,7 +14,7 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://howlongtho.com{{ page.url }}">
 <link rel="canonical" href="https://howlongtho.com{{ page.url }}">
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Light.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">

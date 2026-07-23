@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Atkinson Hyperlegible Next";
-  src: url("/fonts/AtkinsonHyperlegibleNext-Light.ttf") format("truetype");
-  font-weight: 300;
+  src: url("/fonts/AtkinsonHyperlegibleNext-Regular.ttf") format("truetype");
+  font-weight: 400;
   font-display: optional;
 }
 @font-face {
@@ -20,10 +20,10 @@ html, body, div, header, main, section, footer, p, ul, li, a, img, form {
   box-sizing: border-box;
 }
 :root {
-  --fs-small: 16px;
-  --fs-medium: 26px;
-  --fs-large: 42px;
-  --fs-xlarge: 68px;
+  --fs-small: 18px;
+  --fs-medium: 29px;
+  --fs-large: 47px;
+  --fs-xlarge: 76px;
 }
 body {
   margin: 0;
@@ -31,7 +31,7 @@ body {
   background: #000000;
   color: #ffffff;
   font-family: "Atkinson Hyperlegible Next", -apple-system, BlinkMacSystemFont, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   font-size: var(--fs-small);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -97,7 +97,7 @@ header {
   margin: 0 0 24px;
 }
 .tagline {
-  font-weight: 300;
+  font-weight: 400;
   font-size: var(--fs-medium);
   color: #a3a3a3;
   max-width: 560px;
@@ -114,7 +114,7 @@ header {
 .fs-medium { font-size: var(--fs-medium); }
 .fs-large { font-size: var(--fs-large); }
 .fs-xlarge { font-size: var(--fs-xlarge); }
-.fw-light { font-weight: 300; }
+.fw-regular { font-weight: 400; }
 .fw-semibold { font-weight: 600; }
 .fw-extrabold { font-weight: 800; }
 .cta-row {
@@ -181,12 +181,12 @@ h2 {
 }
 section p {
   color: #a3a3a3;
-  font-weight: 300;
+  font-weight: 400;
   font-size: var(--fs-medium);
 }
 main > p {
   color: #a3a3a3;
-  font-weight: 300;
+  font-weight: 400;
 }
 .features {
   list-style: none;
@@ -200,7 +200,7 @@ main > p {
   padding-left: 20px;
   position: relative;
   color: #ffffff;
-  font-weight: 300;
+  font-weight: 400;
   font-size: var(--fs-medium);
 }
 .features li::before {

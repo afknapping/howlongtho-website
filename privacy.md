@@ -12,7 +12,7 @@ permalink: /privacy/
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://howlongtho.com/privacy/">
 <link rel="canonical" href="https://howlongtho.com/privacy/">
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Light.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Regular.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
 <link rel="stylesheet" href="/assets/style.css">
