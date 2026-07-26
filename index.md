@@ -63,33 +63,33 @@ take</li>
 <section id="screenshots">
 <h2>See it</h2>
 <div class="screenshot-grid">
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Time you can actually feel"</span>
-<span>Lock Screen countdown</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/lockscreen-countdown-IMG_1982.jpg" alt="Lock Screen countdown">
+<p class="screenshot-cap">"Time you can actually feel"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Make it yours"</span>
-<span>Lock Screen customization</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/lockscreen-customization-IMG_1983.jpg" alt="Lock Screen customization">
+<p class="screenshot-cap">"Make it yours"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Set a timer in seconds"</span>
-<span>Creation screen</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/creation-screen-IMG_1984.jpg" alt="Creation screen">
+<p class="screenshot-cap">"Set a timer in seconds"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"An alarm built to cut through hyperfocus"</span>
-<span>Alert firing</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/alert-firing-IMG_1985.jpg" alt="Alert firing">
+<p class="screenshot-cap">"An alarm built to cut through hyperfocus"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Start a countdown straight from your calendar or reminders"</span>
-<span>Events &amp; Reminders picker</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/events-reminders-picker-IMG_1986.jpg" alt="Events &amp; Reminders picker">
+<p class="screenshot-cap">"Start a countdown straight from your calendar or reminders"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Every timer, in one place"</span>
-<span>Timer list</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/timer-list-IMG_1987.jpg" alt="Timer list">
+<p class="screenshot-cap">"Every timer, in one place"</p>
 </div>
-<div class="placeholder screenshot-placeholder">
-<span class="cap">"Quick access from Home Screen or Control Center"</span>
-<span>Widget &amp; Control Center</span>
+<div class="screenshot-tile">
+<img src="/assets/screenshots/quick-access-control-center-IMG_1988.jpg" alt="Quick access from Home Screen or Control Center">
+<p class="screenshot-cap">"Quick access from Home Screen or Control Center"</p>
 </div>
 </div>
 </section>

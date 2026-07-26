@@ -223,15 +223,19 @@ main > p {
   gap: 16px;
   margin-top: 24px;
 }
-.screenshot-placeholder {
-  aspect-ratio: 1320 / 2868;
-  flex-direction: column;
-  gap: 8px;
-  padding: 12px;
+.screenshot-tile img {
+  width: 100%;
+  aspect-ratio: 1125 / 2436;
+  object-fit: cover;
+  border-radius: 16px;
+  display: block;
 }
-.screenshot-placeholder .cap {
+.screenshot-cap {
   color: #ffffff;
   font-weight: 600;
+  font-size: var(--fs-small);
+  text-align: center;
+  margin: 8px 0 0;
 }
 .buttondown-placeholder {
   border: 1px dashed #2a2a2a;
