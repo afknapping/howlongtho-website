@@ -65,31 +65,31 @@ take</li>
 <div class="screenshot-grid">
 <div class="screenshot-tile">
 <img src="/assets/screenshots/lockscreen-countdown-IMG_1982.jpg" alt="Lock Screen countdown">
-<p class="screenshot-cap">"Time you can actually feel"</p>
+<p class="screenshot-cap">Time you can actually feel</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/lockscreen-customization-IMG_1983.jpg" alt="Lock Screen customization">
-<p class="screenshot-cap">"Make it yours"</p>
+<p class="screenshot-cap">Make it yours</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/creation-screen-IMG_1984.jpg" alt="Creation screen">
-<p class="screenshot-cap">"Set a timer in seconds"</p>
+<p class="screenshot-cap">Set a timer in seconds</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/alert-firing-IMG_1985.jpg" alt="Alert firing">
-<p class="screenshot-cap">"An alarm built to cut through hyperfocus"</p>
+<p class="screenshot-cap">An alarm built to cut through hyperfocus</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/events-reminders-picker-IMG_1986.jpg" alt="Events &amp; Reminders picker">
-<p class="screenshot-cap">"Start a countdown straight from your calendar or reminders"</p>
+<p class="screenshot-cap">Start a countdown straight from your calendar or reminders</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/timer-list-IMG_1987.jpg" alt="Timer list">
-<p class="screenshot-cap">"Every timer, in one place"</p>
+<p class="screenshot-cap">Every timer, in one place</p>
 </div>
 <div class="screenshot-tile">
 <img src="/assets/screenshots/quick-access-control-center-IMG_1988.jpg" alt="Quick access from Home Screen or Control Center">
-<p class="screenshot-cap">"Quick access from Home Screen or Control Center"</p>
+<p class="screenshot-cap">Quick access from Home Screen or Control Center</p>
 </div>
 </div>
 </section>
