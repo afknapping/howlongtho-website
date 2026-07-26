@@ -27,6 +27,9 @@
   nav.querySelectorAll('.nav-inner a').forEach(function(a) {
     if (a.getAttribute('href') === here) {
       a.classList.add('current');
+      a.addEventListener('click', function(e) {
+        e.preventDefault();
+      });
     }
   });
   var burger = nav.querySelector('.nav-burger');

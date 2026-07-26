@@ -118,8 +118,11 @@ body {
   }
   .site-nav.menu-open .nav-inner {
     flex-direction: column;
-    align-items: flex-start;
-    gap: 16px;
+    align-items: stretch;
+    gap: 0;
+  }
+  .site-nav.menu-open .nav-inner a {
+    padding: 12px 0;
   }
   .site-nav.menu-open .nav-inner a:not(.current):not(.nav-hidden) {
     display: block;
