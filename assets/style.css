@@ -96,6 +96,16 @@ body {
     width: 100%;
     height: 2px;
     background: #ffffff;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
+  .site-nav.menu-open .nav-burger span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  .site-nav.menu-open .nav-burger span:nth-child(2) {
+    opacity: 0;
+  }
+  .site-nav.menu-open .nav-burger span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
   }
   .site-nav .nav-inner {
     padding-right: 40px;
