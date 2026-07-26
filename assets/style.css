@@ -242,6 +242,9 @@ h1 {
   margin: 0 0 20px;
   scroll-margin-top: 80px;
 }
+main > h1:first-child {
+  margin-top: 40px;
+}
 h2 {
   font-weight: 800;
   font-size: var(--fs-large);
