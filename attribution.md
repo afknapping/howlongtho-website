@@ -9,7 +9,7 @@ description: "Sources and credits for the type, sounds, and wallpapers used in H
 <h2 class="fs-medium">Type</h2>
 <ul class="plain-list">
 <li><strong>Atkinson Hyperlegible Next</strong> — designed by Applied Design Works for the <a href="https://www.brailleinstitute.org/freefont/">Braille Institute</a>, released under the SIL Open Font License.</li>
-<li><strong>DSEG7 Modern</strong> — the LED-style digits used on the default Lock Screen countdown, designed by <a href="https://www.keshikan.net/fonts-e.html">Keshikan</a>, released under the SIL Open Font License.</li>
+<li><strong>DSEG7 Modern</strong> — the LED-style used for the logotype and app default, designed by <a href="https://www.keshikan.net/fonts-e.html">Keshikan</a>, released under the SIL Open Font License.</li>
 <li><strong>Segment7</strong> — an alternate Lock Screen countdown typeface, designed by <a href="https://www.dafont.com/segment7.font">GSeven</a>.</li>
 <li><strong>LCD Solid</strong> — another alternate Lock Screen countdown typeface, in the public domain. <a href="https://www.fontspace.com/lcd-solid-font-f11346">fontspace.com</a></li>
 </ul>
