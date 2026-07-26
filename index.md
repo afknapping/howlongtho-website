@@ -1,26 +1,10 @@
 ---
-layout: null
+layout: default
+description: "Time you can actually feel. How Long Tho is a countdown you can see and an alarm that cuts through hyperfocus — for people who are chronically late, not lazy."
+og_description: "Time you can actually feel."
+extra_scripts:
+  - /assets/lightbox.js
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>How Long Tho</title>
-<meta name="description" content="Time you can actually feel. How Long Tho is a countdown you can see and an alarm that cuts through hyperfocus — for people who are chronically late, not lazy.">
-<meta property="og:title" content="How Long Tho">
-<meta property="og:description" content="Time you can actually feel.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://howlongtho.com">
-<link rel="canonical" href="https://howlongtho.com">
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Regular.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="stylesheet" href="/assets/style.css">
-</head>
-<body>
-{% include nav.html %}
-<main>
 <header>
 <img class="logotype" src="/assets/logotype.jpg" alt="How Long Tho">
 <p class="subtitle">Time you can actually feel</p>
@@ -117,10 +101,3 @@ take</li>
 [Buttondown embed placeholder — needs consent-compliant opt-in copy before this goes live]
 </div>
 </section>
-<footer>
-<a href="/privacy/">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
-</footer>
-</main>
-<script src="/assets/lightbox.js"></script>
-</body>
-</html>

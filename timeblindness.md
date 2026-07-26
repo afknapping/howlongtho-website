@@ -1,25 +1,9 @@
 ---
-layout: null
+layout: default
 permalink: /timeblindness/
+title: "Time blindness, explained"
+description: "What time blindness actually is, why it happens, and why it's not a character flaw."
 ---
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Time blindness, explained — How Long Tho</title>
-<meta name="description" content="What time blindness actually is, why it happens, and why it's not a character flaw.">
-<meta property="og:title" content="Time blindness, explained — How Long Tho">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://howlongtho.com/timeblindness/">
-<link rel="canonical" href="https://howlongtho.com/timeblindness/">
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Regular.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="stylesheet" href="/assets/style.css">
-</head>
-<body>
-{% include nav.html %}
-<main>
 <h1>Time blindness, explained</h1>
 <p class="lead">You know that feeling where five minutes and forty-five minutes feel exactly the same — right up until one of them turns out to be very, very late? That's not carelessness. It has a name.</p>
 <h2>What it actually is</h2>
@@ -45,9 +29,3 @@ permalink: /timeblindness/
 <h2>What actually helps</h2>
 <p>Understanding the mechanism tends to be the first real relief people describe — not because it fixes anything by itself, but because it turns "what's wrong with me" into "oh, that's what's happening." From there, real things help: some people find medication or therapy makes a measurable difference; others find that simply making time visible — an external clock standing in for an internal one that doesn't reliably fire — is enough to change how a day actually goes. That's the whole idea behind How Long Tho: not a fix, just a second, more honest clock.</p>
 <p>If none of this is your experience — if you've never lost track of an afternoon or been blindsided by a deadline you technically knew was coming — it's still worth having read this far. The people in your life who do experience it aren't choosing to let you down. They're running on a clock that was never built to warn them in time. A little patience goes further than a reminder that they're late again. They already know.</p>
-</main>
-<footer>
-<a href="/">Home</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
-</footer>
-</body>
-</html>

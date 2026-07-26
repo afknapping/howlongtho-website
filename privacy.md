@@ -1,25 +1,9 @@
 ---
-layout: null
+layout: default
 permalink: /privacy/
+title: "Privacy Policy"
+description: "How Long Tho's privacy policy — no server, no account, no backend, no tracking, no ads."
 ---
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacy Policy — How Long Tho</title>
-<meta name="description" content="How Long Tho's privacy policy — no server, no account, no backend, no tracking, no ads.">
-<meta property="og:title" content="Privacy Policy — How Long Tho">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://howlongtho.com/privacy/">
-<link rel="canonical" href="https://howlongtho.com/privacy/">
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-Regular.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="preload" href="/fonts/AtkinsonHyperlegibleNext-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
-<link rel="stylesheet" href="/assets/style.css">
-</head>
-<body>
-{% include nav.html %}
-<main>
 <header>
 <a href="/"><img class="logotype logotype-small" src="/assets/logotype.jpg" alt="How Long Tho"></a>
 </header>
@@ -49,9 +33,3 @@ permalink: /privacy/
 <p>If anything here changes, we'll update this page and the "last updated" date above.</p>
 <h2>Contact</h2>
 <p>Questions about this policy? Email <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>.</p>
-</main>
-<footer>
-<a href="/">Home</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
-</footer>
-</body>
-</html>
