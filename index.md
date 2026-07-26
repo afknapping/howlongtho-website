@@ -27,18 +27,18 @@ genuinely trying — this app is for you.
 </p>
 <p>
 Time blindness is real. Your brain doesn't register time the way
-others' do. That's not a character flaw. It's a wiring difference —
-and it deserves a tool, not a lecture.
+others do. It's a wiring difference, not a character flaw, and it
+deserves a tool, not a lecture.
 </p>
 <p>
 How Long Tho gives you an external sense of time, so you feel
 deadlines coming instead of finding out too late.
 </p>
 <ul class="features">
-<li>A countdown you can see — not a date buried in a calendar</li>
-<li>A hard alarm that cuts through hyperfocus when nothing else can</li>
-<li>A separate "time to leave" timer, so you're not just on time for
-the event — you're on time to go</li>
+<li>A countdown you can see instead of a date buried in a calendar</li>
+<li>A system-like alarm that cuts through hyperfocus when nothing else can</li>
+<li>"Buffer time", so you're not just on time for the event but you're
+on time to go</li>
 <li>Every timer quietly trains your sense of how long things actually
 take</li>
 </ul>
