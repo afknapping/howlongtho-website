@@ -1,4 +1,9 @@
 <nav class="site-nav">
+<button class="nav-burger" aria-label="Menu" aria-expanded="false">
+<span></span>
+<span></span>
+<span></span>
+</button>
 <div class="nav-inner">
 <a href="/">App</a>
 <a href="/timeblindness/">Timeblindness explained</a>
@@ -23,6 +28,11 @@
     if (a.getAttribute('href') === here) {
       a.classList.add('current');
     }
+  });
+  var burger = nav.querySelector('.nav-burger');
+  burger.addEventListener('click', function() {
+    var open = nav.classList.toggle('menu-open');
+    burger.setAttribute('aria-expanded', open ? 'true' : 'false');
   });
 })();
 </script>
