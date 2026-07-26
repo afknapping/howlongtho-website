@@ -92,6 +92,13 @@ take</li>
 <p class="screenshot-cap">Quick access from Home Screen or Control Center</p>
 </div>
 </div>
+<div class="lightbox" id="lightbox">
+<button class="lightbox-close" aria-label="Close">&times;</button>
+<button class="lightbox-prev" aria-label="Previous">&larr;</button>
+<img class="lightbox-img" src="" alt="">
+<p class="lightbox-cap"></p>
+<button class="lightbox-next" aria-label="Next">&rarr;</button>
+</div>
 </section>
 <section id="compatibility">
 <h2>Compatibility</h2>
@@ -113,5 +120,6 @@ take</li>
 <a href="/privacy/">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
 </footer>
 </main>
+<script src="/assets/lightbox.js"></script>
 </body>
 </html>

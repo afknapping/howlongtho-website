@@ -218,10 +218,28 @@ main > p {
   margin-bottom: 8px;
 }
 .screenshot-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  display: flex;
   gap: 16px;
   margin-top: 24px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 8px;
+  -webkit-overflow-scrolling: touch;
+}
+.screenshot-grid::-webkit-scrollbar {
+  height: 6px;
+}
+.screenshot-grid::-webkit-scrollbar-track {
+  background: transparent;
+}
+.screenshot-grid::-webkit-scrollbar-thumb {
+  background: #2a2a2a;
+  border-radius: 3px;
+}
+.screenshot-tile {
+  flex: 0 0 180px;
+  scroll-snap-align: start;
+  cursor: pointer;
 }
 .screenshot-tile img {
   width: 100%;
@@ -272,4 +290,68 @@ footer a {
 }
 a {
   color: #ffffff;
+}
+body.lightbox-open {
+  overflow: hidden;
+}
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.92);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+.lightbox.open {
+  display: flex;
+}
+.lightbox-img {
+  max-width: 90vw;
+  max-height: 75vh;
+  object-fit: contain;
+  border-radius: 12px;
+}
+.lightbox-cap {
+  color: #ffffff;
+  font-size: var(--fs-medium);
+  text-align: center;
+  margin: 16px 0 0;
+  max-width: 560px;
+}
+.lightbox-close,
+.lightbox-prev,
+.lightbox-next {
+  position: fixed;
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 12px;
+}
+.lightbox-close {
+  top: 16px;
+  right: 16px;
+  font-size: var(--fs-large);
+  line-height: 1;
+}
+.lightbox-prev,
+.lightbox-next {
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: var(--fs-xlarge);
+  line-height: 1;
+}
+.lightbox-prev {
+  left: 8px;
+}
+.lightbox-next {
+  right: 8px;
+}
+.lightbox-close:hover,
+.lightbox-prev:hover,
+.lightbox-next:hover {
+  color: #a3a3a3;
 }
