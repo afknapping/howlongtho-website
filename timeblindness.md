@@ -114,6 +114,7 @@ description: "What time blindness actually is, why it happens, and why it's not 
 <p class="fw-extrabold">Treatment &amp; coping patterns</p>
 <p class="fw-semibold">Further reading</p>
 <ul class="plain-list">
+<li><a href="https://neurolaunch.com/time-blindness-adhd-strategies/">Neurolaunch — ADHD Time Blindness: Effective Strategies for Management</a></li>
 <li><a href="https://www.copehousecollective.com/post/adhd-treatment-for-adults">CopeHouse Collective — ADHD Treatment for Adults</a></li>
 <li><a href="https://www.simplypsychology.com/articles/body-doubling-adhd">Simply Psychology — Body Doubling for ADHD</a></li>
 <li><a href="https://carolinaadhdcoaching.com/body-doubling-for-adhd/">Carolina ADHD Coaching — Body Doubling for ADHD</a></li>
