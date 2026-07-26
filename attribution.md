@@ -11,4 +11,8 @@ description: "Sources and credits for the type, sounds, and wallpapers used in H
 <h2>Sounds</h2>
 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Wallpapers</h2>
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+<ul class="plain-list">
+<li>Photo by <a href="https://unsplash.com/@emulsio">Ann Savchenko</a> on <a href="https://unsplash.com/photos/yOQntxCp0r0">Unsplash</a></li>
+<li>Photo by <a href="https://unsplash.com/@luckybeanz">Mark Harpur</a> on <a href="https://unsplash.com/photos/K2s_YE031CA">Unsplash</a></li>
+<li>Photo by <a href="https://unsplash.com/@johnkoliogiannis">John Koliogiannis</a> on <a href="https://unsplash.com/photos/D0IMqqJ6uTk">Unsplash</a></li>
+</ul>
