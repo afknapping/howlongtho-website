@@ -46,14 +46,14 @@ description: "What time blindness actually is, why it happens, and why it's not 
 </ul>
 <p class="fw-extrabold">Peer-reviewed research</p>
 <ul class="plain-list">
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11650170/">Exploring associations between ADHD symptoms and emotional problems from childhood to adulthood</a> (Twins Early Development Study)</li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12437782/">The Impact of Childhood Maltreatment on Emotional Dysregulation in Adults with ADHD</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12218314/">Adverse experiences of women with undiagnosed ADHD</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946687/">Long-Term Efficacy of Psychosocial Treatments for Adults With ADHD</a> (meta-analytic review)</li>
-<li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">Frontiers in Psychiatry — ADHD as a circadian rhythm disorder</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/17453603/">Do individuals with ADHD self-medicate with cigarettes and substances of abuse?</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6034949/">Comorbidity of Internet use disorder and ADHD</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4532632/">Compulsive Buying: Earlier Illicit Drug Use, Impulse Buying, Depression, and Adult ADHD Symptoms</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11650170/">Exploring associations between ADHD symptoms and emotional problems from childhood to adulthood</a> (Twins Early Development Study) — the ADHD/emotional-problem link strengthens with age, not fades.</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12437782/">The Impact of Childhood Maltreatment on Emotional Dysregulation in Adults with ADHD</a> — childhood adversity measurably amplifies adult emotional dysregulation on top of ADHD itself.</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12218314/">Adverse experiences of women with undiagnosed ADHD</a> — documents the real consequences faced by women whose ADHD had never been diagnosed.</li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946687/">Long-Term Efficacy of Psychosocial Treatments for Adults With ADHD</a> (meta-analytic review) — CBT combined with medication outperforms either alone on symptoms, organization, and self-esteem short-term, though the edge over medication alone fades after about 3 months.</li>
+<li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">Frontiers in Psychiatry — ADHD as a circadian rhythm disorder</a> — sleep disturbance affects up to 80% of adults with ADHD, with the body's internal "it's night now" signal delayed by roughly 90 minutes.</li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/17453603/">Do individuals with ADHD self-medicate with cigarettes and substances of abuse?</a> — 36% of surveyed smokers with ADHD explicitly described cigarettes as self-medication, not a habit.</li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6034949/">Comorbidity of Internet use disorder and ADHD</a> — 72.34% of ADHD patients in one clinical sample showed signs of Internet Gaming Disorder, versus 9.5% of controls.</li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4532632/">Compulsive Buying: Earlier Illicit Drug Use, Impulse Buying, Depression, and Adult ADHD Symptoms</a> — compulsive buyers were measurably quicker to add items to carts and spent more than non-compulsive buyers in lab testing.</li>
 </ul>
 <p class="fw-extrabold">Emotional impact &amp; relationships</p>
 <p class="fw-semibold">Further reading</p>
