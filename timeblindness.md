@@ -45,7 +45,7 @@ description: "What time blindness actually is, why it happens, and why it's not 
 <li><a href="https://journals.sagepub.com/doi/10.1111/j.1467-9280.2008.02240.x">McCrea, Liberman, Trope &amp; Sherman (2008)</a>, <em>Psychological Science</em> — distant deadlines feel abstract and easy to ignore; concrete, near ones feel real and actionable.</li>
 <li><a href="https://home.uchicago.edu/ourminsky/Goal-Gradient_Illusionary_Goal_Progress.pdf">Kivetz, Urminsky &amp; Zheng (2006)</a>, <em>Journal of Marketing Research</em> — visible proximity to a goal measurably accelerates effort and completion.</li>
 </ul>
-<p class="fw-extrabold">Peer-reviewed research</p>
+<p class="fw-extrabold">ADHD specific research</p>
 <ul class="plain-list">
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11650170/">Exploring associations between ADHD symptoms and emotional problems from childhood to adulthood</a> (Twins Early Development Study) — the ADHD/emotional-problem link strengthens with age, not fades.</li>
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12437782/">The Impact of Childhood Maltreatment on Emotional Dysregulation in Adults with ADHD</a> — childhood adversity measurably amplifies adult emotional dysregulation on top of ADHD itself.</li>
