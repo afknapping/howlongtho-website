@@ -5,7 +5,7 @@ title: "Attribution"
 description: "Sources and credits for the type, sounds, and wallpapers used in How Long Tho."
 ---
 <h1 class="fs-medium">Attribution</h1>
-<p class="lead fs-small">How Long Tho is built with type, sounds, and wallpapers made by other people. This page credits them.</p>
+<p class="lead fs-small">How Long Tho is built with things made by other people. Thank you.</p>
 <h2 class="fs-medium">Type</h2>
 <ul class="plain-list">
 <li><strong>Atkinson Hyperlegible Next</strong> — designed by Applied Design Works for the <a href="https://www.brailleinstitute.org/freefont/">Braille Institute</a>, released under the SIL Open Font License.</li>
