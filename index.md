@@ -23,7 +23,7 @@ Your brain doesn't feel time passing. How Long Tho makes time visible.
 <h2>What it is</h2>
 <p>
 If you've ever been called lazy, flaky, or irresponsible when you were
-genuinely trying — this app is for you.
+genuinely trying, this app is for you.
 </p>
 <p>
 Time blindness is real. Your brain doesn't register time the way
