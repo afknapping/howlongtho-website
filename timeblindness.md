@@ -30,14 +30,19 @@ description: "What time blindness actually is, why it happens, and why it's not 
 <p>Understanding the mechanism tends to be the first real relief people describe — not because it fixes anything by itself, but because it turns "what's wrong with me" into "oh, that's what's happening." From there, real things help: some people find medication or therapy makes a measurable difference; others find that simply making time visible — an external clock standing in for an internal one that doesn't reliably fire — is enough to change how a day actually goes. That's the whole idea behind How Long Tho: not a fix, just a second, more honest clock.</p>
 <p>If none of this is your experience — if you've never lost track of an afternoon or been blindsided by a deadline you technically knew was coming — it's still worth having read this far. The people in your life who do experience it aren't choosing to let you down. They're running on a clock that was never built to warn them in time. A little patience goes further than a reminder that they're late again. They already know.</p>
 <h2 class="fs-medium">Sources</h2>
-<p>The research behind this page, organized by topic. Peer-reviewed studies are listed first in each category.</p>
-<p class="fw-extrabold">Emotional impact &amp; relationships</p>
-<p class="fw-semibold">Peer-reviewed research</p>
+<p>The research behind this page. Peer-reviewed studies first, then everything else organized by topic.</p>
+<p class="fw-extrabold">Peer-reviewed research</p>
 <ul class="plain-list">
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11650170/">Exploring associations between ADHD symptoms and emotional problems from childhood to adulthood</a> (Twins Early Development Study)</li>
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12437782/">The Impact of Childhood Maltreatment on Emotional Dysregulation in Adults with ADHD</a></li>
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12218314/">Adverse experiences of women with undiagnosed ADHD</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946687/">Long-Term Efficacy of Psychosocial Treatments for Adults With ADHD</a> (meta-analytic review)</li>
+<li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">Frontiers in Psychiatry — ADHD as a circadian rhythm disorder</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/17453603/">Do individuals with ADHD self-medicate with cigarettes and substances of abuse?</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6034949/">Comorbidity of Internet use disorder and ADHD</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4532632/">Compulsive Buying: Earlier Illicit Drug Use, Impulse Buying, Depression, and Adult ADHD Symptoms</a></li>
 </ul>
+<p class="fw-extrabold">Emotional impact &amp; relationships</p>
 <p class="fw-semibold">Further reading</p>
 <ul class="plain-list">
 <li><a href="https://www.additudemag.com/time-blindness-running-late-adhd/">ADDitude — Running Late Again: Time Blindness and My ADHD Brain</a></li>
@@ -93,14 +98,6 @@ description: "What time blindness actually is, why it happens, and why it's not 
 <li><a href="https://askjan.org/publications/consultants-corner/Getting-to-Work-on-Time.cfm">askjan.org — Getting to Work on Time</a></li>
 </ul>
 <p class="fw-extrabold">Treatment &amp; coping patterns</p>
-<p class="fw-semibold">Peer-reviewed research</p>
-<ul class="plain-list">
-<li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5946687/">Long-Term Efficacy of Psychosocial Treatments for Adults With ADHD</a> (meta-analytic review)</li>
-<li><a href="https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full">Frontiers in Psychiatry — ADHD as a circadian rhythm disorder</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/17453603/">Do individuals with ADHD self-medicate with cigarettes and substances of abuse?</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6034949/">Comorbidity of Internet use disorder and ADHD</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4532632/">Compulsive Buying: Earlier Illicit Drug Use, Impulse Buying, Depression, and Adult ADHD Symptoms</a></li>
-</ul>
 <p class="fw-semibold">Further reading</p>
 <ul class="plain-list">
 <li><a href="https://www.copehousecollective.com/post/adhd-treatment-for-adults">CopeHouse Collective — ADHD Treatment for Adults</a></li>
