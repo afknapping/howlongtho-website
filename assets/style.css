@@ -232,11 +232,13 @@ h1 {
   font-weight: 800;
   font-size: var(--fs-large);
   margin: 0 0 20px;
+  scroll-margin-top: 80px;
 }
 h2 {
   font-weight: 800;
   font-size: var(--fs-large);
   margin: 0 0 20px;
+  scroll-margin-top: 80px;
 }
 section p {
   color: #a3a3a3;
