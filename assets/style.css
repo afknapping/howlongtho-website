@@ -19,6 +19,14 @@
 html, body, div, header, main, section, footer, p, ul, li, a, img, form {
   box-sizing: border-box;
 }
+html {
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
 :root {
   --fs-small: 18px;
   --fs-medium: 29px;
