@@ -6,6 +6,7 @@ description: "What time blindness actually is, why it happens, and why it's not 
 ---
 <h1 class="fs-medium">Time blindness, explained</h1>
 <p class="lead fs-small">You know that feeling where five minutes and forty-five minutes feel exactly the same — right up until one of them turns out to be very, very late? That's not carelessness. It has a name.</p>
+<p><a href="#sources">(Sources below)</a></p>
 <h2 class="fs-medium">What it actually is</h2>
 <p>Most people carry a rough sense of time passing in the background, even when they're not looking at a clock. Time blindness means that background sense doesn't reliably work. Minutes don't quietly add up into a felt sense of "it's later than I think" — until the deadline is already here.</p>
 <p>It's common in ADHD, tied to how the brain handles time passing in the background. But you don't need a diagnosis to recognize it. Plenty of people who've never been evaluated for anything have spent their whole life wondering why time seems to work differently for them than it does for everyone else.</p>
@@ -29,7 +30,7 @@ description: "What time blindness actually is, why it happens, and why it's not 
 <h2 class="fs-medium">What actually helps</h2>
 <p>Understanding the mechanism tends to be the first real relief people describe — not because it fixes anything by itself, but because it turns "what's wrong with me" into "oh, that's what's happening." From there, real things help: some people find medication or therapy makes a measurable difference; others find that simply making time visible — an external clock standing in for an internal one that doesn't reliably fire — is enough to change how a day actually goes. That's the whole idea behind How Long Tho: not a fix, just a second, more honest clock.</p>
 <p>If none of this is your experience — if you've never lost track of an afternoon or been blindsided by a deadline you technically knew was coming — it's still worth having read this far. The people in your life who do experience it aren't choosing to let you down. They're running on a clock that was never built to warn them in time. A little patience goes further than a reminder that they're late again. They already know.</p>
-<h2 class="fs-medium">Sources</h2>
+<h2 class="fs-medium" id="sources">Sources</h2>
 <p>The research behind this page. General research on why visible time changes behavior first, then ADHD-specific peer-reviewed studies, then everything else organized by topic.</p>
 <p class="fw-extrabold">Why visible time changes behavior</p>
 <p>Not specific to ADHD — the same effect shows up across education, transportation, HCI, memory research, and behavioral economics.</p>
