@@ -1,4 +1,6 @@
 permalink: /blog/:title/
+include:
+  - .well-known
 exclude:
   - README.md
   - TODO.md
