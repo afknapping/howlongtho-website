@@ -172,9 +172,9 @@ header {
 .fs-medium { font-size: var(--fs-medium); }
 .fs-large { font-size: var(--fs-large); }
 .fs-xlarge { font-size: var(--fs-xlarge); }
-.fw-regular { font-weight: 400; }
-.fw-semibold { font-weight: 600; }
-.fw-extrabold { font-weight: 800; }
+.fw-regular { font-weight: 400 !important; }
+.fw-semibold { font-weight: 600 !important; }
+.fw-extrabold { font-weight: 800 !important; }
 .cta-row {
   display: flex;
   flex-direction: column;
@@ -266,6 +266,12 @@ main > p {
   font-size: var(--fs-medium);
 }
 #what-it-is .features li {
+  font-size: var(--fs-small);
+}
+#tb-shows-up-list li {
+  font-size: var(--fs-small);
+}
+#privacy-dont-do-list li {
   font-size: var(--fs-small);
 }
 .features li::before {
