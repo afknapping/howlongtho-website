@@ -15,9 +15,11 @@ Your brain doesn't feel time passing. How Long Tho makes time visible.
 <div class="cta-row">
 <a class="app-store-badge" href="/"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a>
 </div>
+<div class="phone-frame">
 <video class="app-preview-video" controls playsinline preload="none" poster="/assets/app-preview-poster.jpg">
 <source src="/assets/hlt-app-preview-v1.mp4" type="video/mp4">
 </video>
+</div>
 </header>
 <section id="what-it-is">
 <h2>What it is</h2>

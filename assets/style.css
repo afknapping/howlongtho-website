@@ -213,13 +213,32 @@ header {
   color: #999999;
   margin-top: 8px;
 }
+.phone-frame {
+  position: relative;
+  max-width: 336px;
+  margin: 40px auto 0;
+  padding: 14px;
+  background: linear-gradient(180deg, #2b2b2b, #0a0a0a);
+  border-radius: 54px;
+  box-shadow: 0 0 0 2px #3a3a3a inset, 0 20px 60px rgba(0, 0, 0, 0.6);
+}
+.phone-frame::after {
+  content: "";
+  position: absolute;
+  top: 28px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90px;
+  height: 26px;
+  background: #000000;
+  border-radius: 999px;
+  pointer-events: none;
+}
 .app-preview-video {
   display: block;
-  aspect-ratio: 886 / 1920;
-  max-width: 320px;
   width: 100%;
-  margin: 40px auto 0;
-  border-radius: 16px;
+  aspect-ratio: 886 / 1920;
+  border-radius: 40px;
   background: #141414;
 }
 section {
