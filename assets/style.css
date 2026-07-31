@@ -190,19 +190,13 @@ header {
   gap: 12px;
   margin-bottom: 8px;
 }
-.btn-primary {
+.app-store-badge {
   display: inline-block;
-  background: #000000;
-  color: #ffffff;
-  border: 2px solid #ffffff;
-  font-weight: 600;
-  font-size: var(--fs-small);
-  text-decoration: none;
-  padding: 14px 32px;
-  border-radius: 999px;
+  line-height: 0;
 }
-.btn-primary:hover {
-  background: #1a1a1a;
+.app-store-badge img {
+  height: 48px;
+  width: auto;
 }
 .cta-note {
   color: #999999;

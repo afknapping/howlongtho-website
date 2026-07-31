@@ -13,7 +13,7 @@ You care, you try, and you're still late. It's not because you're lazy.
 Your brain doesn't feel time passing. How Long Tho makes time visible.
 </p>
 <div class="cta-row">
-<a class="btn-primary" href="#">Soon</a>
+<a class="app-store-badge" href="/"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a>
 </div>
 <video class="app-preview-video" controls playsinline preload="none" poster="/assets/app-preview-poster.jpg">
 <source src="/assets/hlt-app-preview-v1.mp4" type="video/mp4">
@@ -85,6 +85,9 @@ take</li>
 <li><strong>Apple TV</strong> (soon): <span class="fw-semibold">tvOS 26</span> → Apple TV HD (2015) or any Apple TV 4K generation</li>
 -->
 </ul>
+<div class="cta-row">
+<a class="app-store-badge" href="/"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a>
+</div>
 </section>
 <!--
 <section id="mailing-list">
