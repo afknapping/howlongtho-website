@@ -21,7 +21,7 @@ Your brain doesn't feel time passing. How Long Tho makes time visible.
 <span class="frame-btn frame-btn-vol-up"></span>
 <span class="frame-btn frame-btn-vol-down"></span>
 <div class="video-wrap">
-<video class="app-preview-video" controls playsinline preload="none" poster="/assets/app-preview-poster.jpg">
+<video class="app-preview-video" controls playsinline preload="none" poster="/assets/screenshots/lockscreen-countdown-IMG_1982.jpg">
 <source src="/assets/hlt-app-preview-v1.mp4" type="video/mp4">
 </video>
 <button class="play-overlay" type="button" aria-label="Play video">
