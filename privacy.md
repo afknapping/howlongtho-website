@@ -32,4 +32,4 @@ description: "How Long Tho's privacy policy — no server, no account, no backen
 <h2 class="fs-medium">Changes to this policy</h2>
 <p>If anything here changes, we'll update this page and the "last updated" date above.</p>
 <h2 class="fs-medium">Contact</h2>
-<p>Questions about this policy? Email <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>.</p>
+<p>Questions about this policy? Email <a data-obf="email" data-t="aGVsbG9AaG93bG9uZ3Roby5jb20=" data-h="aGVsbG9AaG93bG9uZ3Roby5jb20="></a>.</p>

@@ -26,8 +26,9 @@
 {{ content }}
 </main>
 <footer>
-{% unless page.url == "/" %}<a href="/">Home</a> &middot; {% endunless %}<a href="/impressum/">Impressum</a> &middot; <a href="/privacy/">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
+{% unless page.url == "/" %}<a href="/">Home</a> &middot; {% endunless %}<a href="/impressum/">Impressum</a> &middot; <a href="/privacy/">Privacy Policy</a> &middot; <a data-obf="email" data-t="aGVsbG9AaG93bG9uZ3Roby5jb20=" data-h="aGVsbG9AaG93bG9uZ3Roby5jb20="></a>
 </footer>
+<script src="/assets/contact.js" defer></script>
 {% if page.extra_scripts %}{% for s in page.extra_scripts %}<script src="{{ s }}"></script>
 {% endfor %}{% endif %}
 </body>
