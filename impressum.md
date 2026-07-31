@@ -15,6 +15,7 @@ Barendieksholz 8<br>
 21379 Scharnebeck<br>
 Germany</p>
 <h2 class="fs-medium">Contact</h2>
-<p>Email: <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a></p>
+<p>Email: <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a><br>
+Phone: <a href="tel:+4901234567891">0123 456 789 01</a></p>
 <h2 class="fs-medium">Responsible for content</h2>
 <p>§55 Abs. 2 RStV: Fabian Fabian, same address as above.</p>

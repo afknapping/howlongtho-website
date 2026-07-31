@@ -26,7 +26,7 @@
 {{ content }}
 </main>
 <footer>
-{% if page.url == "/" %}<a href="/impressum/">Impressum</a> &middot; <a href="/privacy/">Privacy Policy</a>{% else %}<a href="/">Home</a>{% endif %} &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
+{% unless page.url == "/" %}<a href="/">Home</a> &middot; {% endunless %}<a href="/impressum/">Impressum</a> &middot; <a href="/privacy/">Privacy Policy</a> &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
 </footer>
 {% if page.extra_scripts %}{% for s in page.extra_scripts %}<script src="{{ s }}"></script>
 {% endfor %}{% endif %}
