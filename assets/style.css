@@ -194,6 +194,9 @@ header {
   display: inline-block;
   line-height: 0;
 }
+#compatibility .cta-row {
+  margin-top: 32px;
+}
 .app-store-badge img {
   height: 48px;
   width: auto;
