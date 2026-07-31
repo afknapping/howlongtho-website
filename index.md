@@ -4,6 +4,7 @@ description: "Time you can actually feel. How Long Tho is a countdown you can se
 og_description: "Time you can actually feel."
 extra_scripts:
   - /assets/lightbox.js
+  - /assets/video-play.js
 ---
 <header>
 <img class="logotype" src="/assets/logotype.jpg" alt="How Long Tho">
@@ -16,9 +17,19 @@ Your brain doesn't feel time passing. How Long Tho makes time visible.
 <a class="app-store-badge" href="/"><img src="/assets/app-store-badge.svg" alt="Download on the App Store"></a>
 </div>
 <div class="phone-frame">
+<span class="frame-btn frame-btn-power"></span>
+<span class="frame-btn frame-btn-vol-up"></span>
+<span class="frame-btn frame-btn-vol-down"></span>
+<div class="video-wrap">
 <video class="app-preview-video" controls playsinline preload="none" poster="/assets/app-preview-poster.jpg">
 <source src="/assets/hlt-app-preview-v1.mp4" type="video/mp4">
 </video>
+<button class="play-overlay" type="button" aria-label="Play video">
+<span class="play-circle">
+<svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor"><path d="M8 5v14l11-7z"></path></svg>
+</span>
+</button>
+</div>
 </div>
 </header>
 <section id="what-it-is">
