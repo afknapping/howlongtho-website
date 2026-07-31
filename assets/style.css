@@ -216,21 +216,14 @@ header {
   color: #999999;
   margin-top: 8px;
 }
-.placeholder {
-  border: 1px dashed #2a2a2a;
+.app-preview-video {
+  display: block;
+  aspect-ratio: 886 / 1920;
+  max-width: 320px;
+  width: 100%;
+  margin: 40px auto 0;
   border-radius: 16px;
   background: #141414;
-  color: #999999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 16px;
-}
-.video-placeholder {
-  aspect-ratio: 9 / 16;
-  max-width: 320px;
-  margin: 40px auto 0;
 }
 section {
   padding: 56px 0;

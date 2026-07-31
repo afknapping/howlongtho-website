@@ -15,9 +15,9 @@ Your brain doesn't feel time passing. How Long Tho makes time visible.
 <div class="cta-row">
 <a class="btn-primary" href="#">Soon</a>
 </div>
-<div class="placeholder video-placeholder">
-[App Preview video placeholder]
-</div>
+<video class="app-preview-video" controls playsinline preload="none" poster="/assets/app-preview-poster.jpg">
+<source src="/assets/hlt-app-preview-v1.mp4" type="video/mp4">
+</video>
 </header>
 <section id="what-it-is">
 <h2>What it is</h2>
