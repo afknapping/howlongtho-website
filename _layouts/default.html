@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title %}{{ page.title }} — {% endif %}How Long Tho</title>
 <meta name="description" content="{{ page.description | default: page.excerpt }}">
+{% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <meta property="og:title" content="{% if page.title %}{{ page.title }} — {% endif %}How Long Tho">
 <meta property="og:description" content="{{ page.og_description | default: page.description | default: page.excerpt }}">
 <meta property="og:type" content="{{ page.og_type | default: 'website' }}">
@@ -25,7 +26,7 @@
 {{ content }}
 </main>
 <footer>
-{% if page.url == "/" %}<a href="/privacy/">Privacy Policy</a>{% else %}<a href="/">Home</a>{% endif %} &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
+{% if page.url == "/" %}<a href="/impressum/">Impressum</a> &middot; <a href="/privacy/">Privacy Policy</a>{% else %}<a href="/">Home</a>{% endif %} &middot; <a href="mailto:hello@howlongtho.com">hello@howlongtho.com</a>
 </footer>
 {% if page.extra_scripts %}{% for s in page.extra_scripts %}<script src="{{ s }}"></script>
 {% endfor %}{% endif %}
