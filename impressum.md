@@ -16,6 +16,6 @@ Barendieksholz 8<br>
 Germany</p>
 <h2 class="fs-medium">Contact</h2>
 <p>Email: <a data-obf="email" data-t="aGVsbG9AaG93bG9uZ3Roby5jb20=" data-h="aGVsbG9AaG93bG9uZ3Roby5jb20="></a><br>
-Phone: <a data-obf="tel" data-t="MDEyMyA0NTYgNzg5IDAx" data-h="KzQ5MDEyMzQ1Njc4OTE="></a></p>
+Phone: <a data-obf="tel" data-t="MDE3MSA3NzQgMzQgMDg=" data-h="KzQ5MTcxNzc0MzQwOA=="></a></p>
 <h2 class="fs-medium">Responsible for content</h2>
 <p>§55 Abs. 2 RStV: Fabian Fabian, same address as above.</p>
