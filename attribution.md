@@ -25,9 +25,10 @@ description: "Sources and credits for the type, sounds, and wallpapers used in H
 <li><a href="https://notificationsounds.com/free-jingles-and-logos/light-hearted-message-tone">Light Hearted</a></li>
 </ul>
 <p>All by <a href="https://notificationsounds.com/">Notification Sounds</a>, used under a Creative Commons Attribution license.</p>
-<h2 class="fs-medium">Wallpapers</h2>
+<h2 class="fs-medium">App Previews and Screenshots</h2>
 <ul class="plain-list">
 <li>Photo by <a href="https://unsplash.com/@emulsio">Ann Savchenko</a> on <a href="https://unsplash.com/photos/yOQntxCp0r0">Unsplash</a></li>
 <li>Photo by <a href="https://unsplash.com/@luckybeanz">Mark Harpur</a> on <a href="https://unsplash.com/photos/K2s_YE031CA">Unsplash</a></li>
 <li>Photo by <a href="https://unsplash.com/@johnkoliogiannis">John Koliogiannis</a> on <a href="https://unsplash.com/photos/D0IMqqJ6uTk">Unsplash</a></li>
+<li><a href="https://pixabay.com/music/synthwave-synthwave-retro-80s-321106/">Synthwave Retro 80s</a> by DELOSound on Pixabay</li>
 </ul>
