@@ -7,7 +7,7 @@
     return {
       src: img.getAttribute('src'),
       alt: img.getAttribute('alt'),
-      caption: tile.querySelector('.screenshot-cap').textContent
+      caption: img.getAttribute('alt')
     };
   });
   var lightboxImg = lightbox.querySelector('.lightbox-img');
