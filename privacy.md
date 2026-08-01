@@ -8,7 +8,7 @@ description: "How Long Tho's privacy policy — no server, no account, no backen
 <a href="/"><img class="logotype logotype-small" src="/assets/logotype.jpg" alt="How Long Tho"></a>
 </header>
 <h1 class="fs-medium">Privacy Policy</h1>
-<p class="meta">Last updated: July 20, 2026</p>
+<p class="meta">Last updated: August 1, 2026</p>
 <p class="lead fs-small">How Long Tho works entirely on your device. There is no server, no account, no backend, no tracking, no ads.</p>
 <h2 class="fs-medium">What we don't do</h2>
 <ul class="features" id="privacy-dont-do-list">
@@ -24,7 +24,7 @@ description: "How Long Tho's privacy policy — no server, no account, no backen
 <li><strong>Live Activities</strong> (via Apple's ActivityKit) — powers the Lock Screen and Dynamic Island countdown card. Local to your device.</li>
 </ul>
 <h2 class="fs-medium">iCloud sync</h2>
-<p>Your app settings (like your daily reminder time or sound preferences) sync across your own devices using Apple's iCloud key-value storage. This data lives in your personal iCloud account, governed by <a href="https://www.apple.com/legal/privacy/">Apple's own privacy policy</a> — we never see it.</p>
+<p>Your app settings (like your daily reminder time or sound preferences), your soonest-active countdown's end time, and its display style (color, glow, typeface) sync across your own devices using Apple's iCloud key-value storage. This data lives in your personal iCloud account, governed by <a href="https://www.apple.com/legal/privacy/">Apple's own privacy policy</a> — we never see it.</p>
 <h2 class="fs-medium">Diagnostics</h2>
 <p>If you've opted in to "Share With App Developers" in iOS Settings, Apple may share anonymized crash reports with us to help fix bugs. This is controlled entirely by your iOS settings, not by anything in the app itself, and we can't identify you from it.</p>
 <h2 class="fs-medium">Children's privacy</h2>
