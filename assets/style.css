@@ -362,12 +362,21 @@ main > p {
   color: #999999;
 }
 .plain-list {
-  padding: 0 0 0 20px;
-  margin: 16px 0 0;
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 40px;
   color: #a3a3a3;
 }
 .plain-list li {
+  padding-left: 20px;
+  position: relative;
   margin-bottom: 8px;
+}
+.plain-list li::before {
+  content: "\2014";
+  position: absolute;
+  left: 0;
+  color: #999999;
 }
 .screenshot-grid {
   display: flex;
