@@ -334,7 +334,7 @@ main > p {
 .features {
   list-style: none;
   padding: 0;
-  margin: 24px 0 0;
+  margin: 24px 0 40px;
   display: flex;
   flex-direction: column;
   gap: 16px;
