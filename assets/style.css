@@ -32,6 +32,7 @@ html {
   --fs-medium: 29px;
   --fs-large: 47px;
   --fs-xlarge: 76px;
+  --color-white: #ffffff;
 }
 body {
   margin: 0;
@@ -318,6 +319,11 @@ h2 {
   font-size: var(--fs-large);
   margin: 0 0 20px;
   scroll-margin-top: 80px;
+}
+blockquote {
+  margin: 1em 0;
+  padding-left: 1em;
+  border-left: 3px solid var(--color-white);
 }
 section p {
   color: #a3a3a3;

@@ -5,7 +5,13 @@ title: "Time blindness, explained"
 description: "What time blindness actually is, why it happens, and why it's not a character flaw."
 ---
 <h1 class="fs-medium">Time blindness, explained</h1>
+
+> **_tl;dr:_** Time blindness is when your brain doesn't reliably register time passing in the background, so deadlines arrive out of nowhere instead of creeping up on you. It's common in ADHD, but you don't need a diagnosis to have it. Left unaddressed it quietly costs jobs, friendships, and self-trust. It's not a character flaw, and an external clock, like the one How Long Tho gives you, can do the job your internal one doesn't.
+
+<!---
 <p class="lead fs-small">Maybe you know that feeling where five minutes and forty-five minutes feel exactly the same, right up until one of them turns out to be very late? It has a name.</p>
+--->
+
 <p><a href="#sources">(Sources below)</a></p>
 <h2 class="fs-medium">What Time Blindness actually is</h2>
 <p>Most people carry a rough sense of time passing in the background, even when they're not looking at a clock. Time blindness means that background sense doesn't reliably work. Minutes don't quietly add up into a felt sense of "it's later than I think", until the deadline is already here.</p>
